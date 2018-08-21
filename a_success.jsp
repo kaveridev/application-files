@@ -1,8 +1,3 @@
-<%-- 
-    Document   : result
-    Created on : Feb 16, 2018, 9:27:39 AM
-    Author     : admin
---%>
 <%@page import="java.sql.*"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
