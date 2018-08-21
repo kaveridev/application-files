@@ -1,9 +1,3 @@
-<%-- 
-    Document   : d_success
-    Created on : 7 Mar, 2018, 11:47:59 AM
-    Author     : admin
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@page import="java.sql.*"%>
 <%@page language="java" %>
