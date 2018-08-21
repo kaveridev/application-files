@@ -1,9 +1,3 @@
-<%-- 
-    Document   : StudAuth
-    Created on : 9 Feb, 2018, 12:10:32 PM
-    Author     : admin
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@page import="java.sql.*"%>
 <%@page language="java" %>
