@@ -1,9 +1,3 @@
-<%-- 
-    Document   : failed
-    Created on : 9 Feb, 2018, 11:09:31 AM
-    Author     : admin
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
